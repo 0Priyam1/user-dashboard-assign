@@ -9,13 +9,13 @@ A responsive dashboard application built with React, TypeScript, and Tailwind CS
 ## 📦 Setup & Installation
 
 1. **Clone the repository**
-   git clone https://github.com/0Priyam1/user-dashboard.git
-   cd user-dashboard
+  : git clone https://github.com/0Priyam1/user-dashboard.git
+  :cd user-dashboard
 
 2. **Install dependencies**
-   npm install
+  : npm install
 
 3. **Run the development server**
-  npm run dev
+  : npm run dev
    
 
